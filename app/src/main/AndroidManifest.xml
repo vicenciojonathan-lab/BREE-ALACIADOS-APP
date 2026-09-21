@@ -3,8 +3,8 @@
     <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:allowBackup="true"
-        android:icon="@drawable/bree_logo"
-        android:label="Bree Beauty"
+        android:icon="@drawable/bree_brand"
+        android:label="Bree Alaciados"
         android:supportsRtl="true"
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
         <activity
