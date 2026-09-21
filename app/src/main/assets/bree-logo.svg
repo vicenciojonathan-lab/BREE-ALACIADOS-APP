@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 560" role="img" aria-label="Bree Beauty Center and More">
+<rect width="700" height="560" fill="#ffffff"/>
+<circle cx="350" cy="250" r="190" fill="none" stroke="#f4b8d3" stroke-width="28" stroke-linecap="round" opacity="0.9"/>
+<text x="350" y="280" text-anchor="middle" font-family="Georgia, serif" font-size="150" font-style="italic" fill="#9b645d">Bree</text>
+<text x="350" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="2" fill="#222222">BEAUTY CENTER AND MORE</text>
+<g transform="translate(350,405)">
+  <ellipse cx="-95" cy="10" rx="45" ry="18" fill="#79a685" transform="rotate(-25)"/>
+  <ellipse cx="95" cy="10" rx="45" ry="18" fill="#79a685" transform="rotate(25)"/>
+  <circle cx="-55" cy="0" r="28" fill="#f5c2cd"/>
+  <circle cx="0" cy="8" r="34" fill="#f2a883"/>
+  <circle cx="55" cy="0" r="28" fill="#f3c7d6"/>
+  <circle cx="0" cy="8" r="14" fill="#fff3e8"/>
+</g>
+</svg>
